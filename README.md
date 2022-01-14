@@ -5,4 +5,6 @@ Note: (input.conf is for Unix systems)
 ### Installing MPV
 * `sudo apt install mpv`
 
-* Put `input.conf` in `~/.config/mpv/shaders`
+* Put `input.conf` in `~/.config/mpv/`
+* Put the `shaders` folder in `~/.config/mpv/``
+  
